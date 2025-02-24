@@ -10,3 +10,11 @@
 Библиотеки компонент – на ваше усмотрение
 Ключевая на ваш взгляд функциональность покрыта тестами
 Проект должен запускаться командой npm i && npm run start
+
+<a name="technologies"><h2>2. Стек технологий</h2></a>
+<span>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Иконка 'HTML5'">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Иконка 'Sass (SCSS)'">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Иконка 'TypeScript'">
+</span>
+
